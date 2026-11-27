@@ -10,6 +10,36 @@ real (meses de 30/31 días y años bisiestos).
 - Estudiante: **Alexis Maier**
 - Lenguajes: C++ (`proyecto_cpp/`) y Python (`proyecto_python/`)
 
+## Datos institucionales
+
+- **Institución:** E.E.S.T. N.º 1 «Eduardo Ader» — Vicente López
+- **Curso:** 5.º 3.ª A-B
+- **Materia:** Laboratorio de Programación (LPR)
+- **Profesor:** Prof. York
+- **Actividad:** 1 — Revisión integral (Python y C++)
+
+## Presentación de la Actividad
+
+Calculadora de edad exacta con validación de fecha real (meses de 30/31 días y año bisiesto), resuelta primero en C++ y luego en Python.
+
+## Integrantes y roles
+
+| Integrante | Rol / tarea asignada | Aporte individual |
+|---|---|---|
+| Alexis Maier | Diseño de las plantillas, lógica condicional, filtro de consistencia, pruebas e informe | [calculadora-edad](https://github.com/alitomaier2010-netizen/calculadora-edad) |
+
+## Requisitos e instalación
+
+1. **Git** instalado para clonar el repositorio.
+2. **Editor de código** (VS Code con extensiones de C/C++, o Visual Studio Community).
+3. **Compilador g++** (MinGW-w64 / MSYS2) agregado al `PATH` del sistema.
+4. Clonar y situarse en el directorio:
+
+```bash
+git clone https://github.com/alitomaier2010-netizen/calculadora-edad.git
+cd calculadora-edad
+```
+
 ## Estructura
 
 ```
